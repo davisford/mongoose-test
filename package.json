@@ -1,0 +1,13 @@
+{
+  "name": "mongoose-test",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "mocha": "1.8.1",
+    "mongoose": "3.5.4",
+    "should": "1.2.1"
+  }
+}

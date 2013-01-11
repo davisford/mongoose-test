@@ -1,0 +1,8 @@
+--require should
+--recursive test
+-R spec
+--ui bdd
+--slow 20
+--timeout 3000
+--growl
+--watch
